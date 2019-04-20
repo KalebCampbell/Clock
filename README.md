@@ -1,4 +1,8 @@
 # Javascript Clock
-A clock which displays time. Made using HTML and Javascript. 
+An Analog clock which displays the current time
+<br>
+<h3>Skills Learned</h3>
+<ul>
+  <li>Javascript Basics</li>
+</ul>
 
-An extremely basic clock. trying to build up my Javascript Knowledge. 
